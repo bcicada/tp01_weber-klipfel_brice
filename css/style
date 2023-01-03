@@ -1,0 +1,37 @@
+/* Basic import */ /* Colors */
+/* Fonts */
+@font-face {
+  font-family: "ubuntu-bold";
+  src: url("../fonts/Ubuntu/Ubuntu-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ubuntu-bold-italic";
+  src: url("../fonts/Ubuntu/Ubuntu-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ubuntu-italic";
+  src: url("../fonts/Ubuntu/Ubuntu-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ubuntu-light";
+  src: url("../fonts/Ubuntu/Ubuntu-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ubuntu-light-italic";
+  src: url("../fonts/Ubuntu/Ubuntu-LightItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ubuntu-medium";
+  src: url("../fonts/Ubuntu/Ubuntu-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ubuntu-medium-italic";
+  src: url("../fonts/Ubuntu/Ubuntu-MediumItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ubuntu-regular";
+  src: url("../fonts/Ubuntu/Ubuntu-Regular.ttf") format("truetype");
+}
+/* Component import */
+
+/*# sourceMappingURL=style.map */
