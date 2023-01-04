@@ -1,9 +1,10 @@
 /* Basic import */
-@import "base.scss";
-@import "mixins.scss";
 @import "variables.scss";
+@import "mixins.scss";
+@import "base.scss";
 
 /* Component import */
 @import "components/header.scss";
 @import "components/content.scss";
 @import "components/footer.scss";
+
